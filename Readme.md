@@ -2,20 +2,22 @@
 
 *All labs are described in the methodic book designed by Ershov V.A., Strakhov M.D., Loktev D.A.*
 
-## lab_1 repository includes:
+## Глава 1. Архитектура.
+1. Git. Учимся записывать и выгружать данные с репозитория.
+2. Описание архитектуры проекта.
+3. Локальное позиционирование Базы Данных MySQL.
+4. JDBC. Будущая синхронизация баз данных
 
-1. SQL code example
-2. Java Code example
+## Глава 2. Серверная часть.
 
-## lab_2 repository includes:
+1. Установка и знакомство c Heroku.
+2. Базовый проект Heroku.
+3. POST/GET методы. Дорабатываем код.
 
-1. Heroku CLI installing example
-2. "Hello world" project Heroku example
-3. Modificated code example
+## Глава 3. Клиентская часть.
 
-## lab_3 repository includes:
-
-1. Android project example
-2. Tutorials
-3. Modification examples
+1. JavaFX. Контейнеры. FXML.
+2. Простая программа с локальным сервером.
+3. Синхронизируем с Heroku.
+4. Кастомизация.
 
